@@ -1,0 +1,70 @@
+.container{
+    padding: 3% 10%;
+    background-color:#2d4059;
+}
+.navbar-brand{
+    font-family: cursive;
+    font: 2rem;
+}
+img{
+    border-radius: 100%;
+    width: 50%;
+}
+.mama{
+    padding: 5% 0% 5% 60%;
+   
+  
+}
+.hi{
+    font-family: fantasy;
+    padding: 5% 70% 5% 0%;
+}
+
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    
+}
+#title{
+    background-color:#e5e5e5;
+}
+hr{
+    color: black;
+    size: 5%;
+    align-self: auto;
+}
+.btn {
+    background: #d3d934;
+    background-image: -webkit-linear-gradient(top, #d3d934, #b8842b);
+    background-image: -moz-linear-gradient(top, #d3d934, #b8842b);
+    background-image: -ms-linear-gradient(top, #d3d934, #b8842b);
+    background-image: -o-linear-gradient(top, #d3d934, #b8842b);
+    background-image: linear-gradient(to bottom, #d3d934, #b8842b);
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    font-family: cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #3cfc79;
+    background-image: -webkit-linear-gradient(top, #3cfc79, #97d934);
+    background-image: -moz-linear-gradient(top, #3cfc79, #97d934);
+    background-image: -ms-linear-gradient(top, #3cfc79, #97d934);
+    background-image: -o-linear-gradient(top, #3cfc79, #97d934);
+    background-image: linear-gradient(to bottom, #3cfc79, #97d934);
+    text-decoration: none;
+}
+.register{
+    padding: 50px;
+    text-align: center;
+    
+}
+.here{
+    font-size: larger;
+    font-weight: 200;
+    font-family: cursive;
+}
